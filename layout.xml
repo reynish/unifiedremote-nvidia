@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+  <row>
+    <button text="Open share" ontap="openShare" />
+    <button text="Screenshot" ontap="screenshot" />
+  </row>
+  <row>
+    <button text="Save last 20 minutes" ontap="toggleShadowPlay" />
+    <button text="Manual Record" ontap="toggleManualRecord" />
+  </row>
+  <row>
+		<button text="FPS" ontap="toggleFPS" />
+	</row>
+</layout>
